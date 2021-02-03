@@ -1,0 +1,16 @@
+$primary: #e4955a;
+$secondary: #51a9aa;
+@import '~bootstrap/scss/bootstrap.scss';
+
+@media (min-width: 992px) {
+  main > .container {
+    padding: 90px 15px 0;
+  }
+}
+main > .container {
+  padding: 50px 15px 0;
+}
+$MYPORT: 'http://localhost:3000/';
+@import './font.scss';
+@import './style.scss';
+@import './JNav.scss';

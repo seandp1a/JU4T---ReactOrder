@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap");
+
+/* font-family: 'Noto Sans TC' */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+/* font-family: 'Roboto' */
+
+/* font-weight: 300(Light) 400(Regular) 500(Medium) 700(Bold) 900(Black)*/
+
+@font-face {
+  font-family: TCL;
+  src: url("/font/NotoSansCJKtc-Light.otf");
+}
+@font-face {
+  font-family: TCR;
+  src: url("/font/NotoSansCJKtc-Regular.otf");
+}
+@font-face {
+  font-family: TCM;
+  src: url("/font/NotoSansCJKtc-Medium.otf");
+}
+@font-face {
+  font-family: TCB;
+  src: url("/font/NotoSansCJKtc-Bold.otf");
+}
+@font-face {
+  font-family: TCBlack;
+  src: url("/font/NotoSansCJKtc-Black.otf");
+}
+
+@font-face {
+  font-family: RBL;
+  src: url("/font/Roboto-Light.ttf");
+}
+@font-face {
+  font-family: RBR;
+  src: url("/font/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: RBM;
+  src: url("/font/Roboto-Medium.ttf");
+}
+@font-face {
+  font-family: RBB;
+  src: url("/font/Roboto-Bold.ttf");
+}
+@font-face {
+  font-family: RBBlack;
+  src: url("/font/Roboto-Black.ttf");
+}

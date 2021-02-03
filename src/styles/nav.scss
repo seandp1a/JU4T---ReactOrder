@@ -1,0 +1,57 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1440px;
+  }
+}
+
+/* navbar 高度 ▼ */
+.ju4t-nav {
+  padding: 29px 0 10px 0;
+}
+
+/* navbar 連結字體 ▼ */
+.nav-link {
+  font-family: TCM;
+  color: #707070 !important;
+  font-size: 16px;
+}
+.nav-item:hover a {
+  color: #e4955a !important;
+}
+.nav-link.active {
+  color: #707070 !important;
+}
+
+/* logo大小 ▼ */
+.navbar-brand svg {
+  width: 85px;
+  height: 27px;
+}
+
+/* navbar button 大小 */
+.nav-item .btn svg {
+  width: 20px;
+  height: 20px;
+  opacity: 0.7;
+}
+.nav-item:hover .btn svg {
+  width: 20px;
+  height: 20px;
+  opacity: 1;
+}
+
+.nav-bag-link {
+  font-family: RBB;
+
+  color: #919191;
+  font-size: 13px;
+}
+
+.nav-bag:hover span {
+  text-decoration: none;
+  color: #707070 !important;
+}
+
+.navbar-collapse {
+  height: 100%;
+}
